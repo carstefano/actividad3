@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,eAEE,yBAA2B,CAC3B,kBACF","file":"main.98f4779b.chunk.css","sourcesContent":["button,\r\n.button {\r\n  margin-bottom: 0 !important;\r\n  margin-right: 0.5rem;\r\n}\r\n"]}
